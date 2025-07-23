@@ -1,0 +1,11 @@
+prose.nvim
+==========
+
+Make writing in Neovim more pleasant
+
+Commands
+--------
+
+Toggle prose
+
+	:Prose
