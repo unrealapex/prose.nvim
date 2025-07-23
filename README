@@ -9,3 +9,11 @@ Commands
 Toggle prose
 
 	:Prose
+
+Setup
+-----
+
+	require("prose.nvim").setup({
+		-- see spellfile.vim for list of spell files
+	        lang = "en_us",
+	})
